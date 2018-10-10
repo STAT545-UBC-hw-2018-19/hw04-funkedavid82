@@ -723,3 +723,5 @@ References:
 -----------
 
 [Jenny's cheatsheet](http://stat545.com/bit001_dplyr-cheatsheet.html)
+
+[STAT545 Oct. 4 class exercise and note](https://github.com/funkedavid82/Stat545_participation/blob/master/cm010/cm010-exercise.md)
